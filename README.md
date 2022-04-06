@@ -29,4 +29,3 @@ npm start
 
 👤 **David Cutiopala**
 
-## Show your support
